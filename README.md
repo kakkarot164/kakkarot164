@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![logo](https://github.com/kakkarot164/kakkarot164/blob/main/Github%20banner.gif)
 <h1 align="center">Hi 👋, I'm Sagar Sarkar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
